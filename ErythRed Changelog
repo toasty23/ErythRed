@@ -1,3 +1,7 @@
 # Changelog:
-Lol. This is all in the planning stage, so literally nothing has been added to the game yet. 
- 
+8/18
+Successfully compiled tools: G3T, Lunar, AdvanceMap, XSE, Dollsteak Patch, ROM Base
+Used Lunar to apply Dollsteak patch.
+Used Dollsteak G3T ini settings to alter G3T ini file
+    (New abilities, moves, and PSS added w dollsteak patch and new ini)
+Tested PSS ingame, works. 
