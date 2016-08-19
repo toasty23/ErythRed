@@ -1,0 +1,28 @@
+# Apply PSS 8/18
+# Decapitalize 8/18
+# Add new moves and abilites 8/18
+Change BST of pokemon
+Change abilities
+Change held items
+Change moveset
+Change egg hatch, egg groups
+Change evolution methods
+No baby pokemon
+Try to add in new type/s
+Add Gen4-6 pokemon
+
+Add new maps
+Change map connections
+Change Scripts
+Change trainers, gym leaders, e4
+Remove SS Anne
+Remove Team Rocket
+Remove Snorlax
+Remove roadblocks, tea shit
+Make path past Rock Tunnel
+
+Change location data of pokemon on maps
+Change starting location
+Change intro segment
+
+# SHIT this is going to take awhile, but it'll be awesome. 
