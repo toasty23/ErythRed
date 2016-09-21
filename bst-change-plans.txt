@@ -1,0 +1,88 @@
+Make magikarp usable
+  tackle at lvl 5
+  bubble at 10
+  flail at 15
+  bounce at 40
+  
+buff weezing and muk
+
+buff arcanine
+
+buff ampharos
+
+buff jumpluff
+
+buff yanma
+
+buff mismagius' defense, sp attack
+
+buff electivire, change sprites
+
+buff magmortar
+
+add Jynx evo?
+
+grass electric
+(lightning palm tree?)
+  ice
+  bug
+  poison
+  fire
+    water
+    grass
+    steel
+    electric
+  
+ghost/water, spdef tank, health
+(comb jelly ghost)
+  two stages
+  Abuseil (Abyss soul)
+  Pekotilla (Little tentacle)
+  
+water/ghost
+  thunder
+  dark
+  grass
+  ghost
+    water
+    fire
+    ice
+    normal
+    fighting
+    poison
+    bug
+    (Levitate WaterAbsorb Drizzle? Magic Guard?)
+    
+  Scald
+  Recover
+  Mirror Coat
+  Mean Look
+  
+  NO ICE MOVES
+  
+  Hypnosis
+  Hex
+  Will-O-Wisp
+  Yawn
+  Spite
+  Taunt
+  Snatch
+  Knock Off
+  Brine
+  Calm Mind
+  Toxic
+  Snarl
+  Surf
+  Hydro Pump
+  Shadow Ball
+  Psychic
+  Shadow Force
+  Zen Headbutt
+  Reflect
+  Light Screen
+  Barrier
+  Rain Dance
+  Water Pulse
+  Water Gun
+  Curse
+  
