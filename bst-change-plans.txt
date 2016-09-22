@@ -7,18 +7,30 @@ Make magikarp usable
 buff weezing and muk
 
 buff arcanine
+-lower sp attack
+-buff attack
+-tweak defenses
+-buff stats?
 
 buff ampharos
+-buff HP
+-buff moveset
 
 buff jumpluff
+-stat overhaul
+-abilities
 
-buff yanma
+buff yanmega
+-few points to spatk
+
 
 buff mismagius' defense, sp attack
 
 buff electivire, change sprites
+-stat buff :) lower hp?
 
 buff magmortar
+-same
 
 add Jynx evo?
 
@@ -51,7 +63,7 @@ water/ghost
     fighting
     poison
     bug
-    (Levitate WaterAbsorb Drizzle? Magic Guard?)
+    (Levitate, Filter)
     
   Scald
   Recover
@@ -85,4 +97,8 @@ water/ghost
   Water Pulse
   Water Gun
   Curse
+  Amnesia
+  Haze
+  Acid Armor
+  Trick
   
