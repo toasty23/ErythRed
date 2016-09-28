@@ -44,6 +44,7 @@ grass electric
     grass
     steel
     electric
+   (Lightningrod, 
   
 ghost/water, spdef tank, health
 (comb jelly ghost)
@@ -92,6 +93,7 @@ water/ghost
   Zen Headbutt
   Reflect
   Light Screen
+  Draining Kiss
   Barrier
   Rain Dance
   Water Pulse
